@@ -74,3 +74,17 @@ You need to compile the specific solution file using `g++` to create an executab
 
 ```bash
 g++ -o a.exe aoc5.2.cpp
+
+(Replace aoc5.2.cpp with the file you wish to run.)
+```
+
+### 2. Execution
+
+Run the compiled executable (`a.exe`) and redirect the contents of the corresponding input file into the program's standard input (`cin`).
+
+```bash
+.\a.exe < aoc5_input.txt
+
+(Replace aoc5_input.txt with the name of the input file you wish to use.)
+```
+The program will read the input and print the final result.
