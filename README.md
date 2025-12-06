@@ -66,7 +66,7 @@ Each day's input data is saved in a dedicated file using the format: **`aoc[Day]
 
 ## ⚙️ How to Compile and Run Solutions (Using Input Redirection)
 
-This project uses **Input Redirection (`<`)** for fast and reliable data feeding. You can run these commands from the **VS Code Terminal**, **Windows Command Prompt (`cmd`)**, or **Git Bash**.
+This project uses **Input Redirection (`<`)** for fast and reliable data feeding. You can run these commands from the **Windows Command Prompt (`cmd`)**, or **Git Bash**.
 
 ### 1. Compilation
 
