@@ -6,7 +6,7 @@ This repository contains my personal solutions for the **Advent of Code 2025** p
 
 ## About Advent of Code
 
-Advent of Code (AoC) is an annual, month-long coding challenge that provides a short programming puzzle every day from December 1st to 12th (was previously till Dec 25th). Each puzzle consists of two parts. The first part's answer unlocke the second part.
+Advent of Code (AoC) is an annual, month-long coding challenge that provides a short programming puzzle every day from December 1st to 12th (was previously till Dec 25th). Each puzzle consists of two parts. The first part's answer unlocks the second.
 
 ---
 ## Repository Structure and File Naming
